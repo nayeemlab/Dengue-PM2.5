@@ -1,24 +1,4 @@
 ﻿who_region,Country ,CFR,PM2.5,GDP
-WPR,Cambodia,0.2141497,20.78,2.627879697
-WPR,Philippines,0.345031411,14.32,3.984831539
-WPR,Indonesia,0.77144,40,4.925430488
-WPR,Laos,0.084725392,25.96,2.123979094
-AFR,Burkina Faso,0.561326083,54.76,0.987321378
-SEAR,Nepal,0.29461163,44.24,1.447310045
-SEAR,Sri Lanka,0.093046098,19.54,4.515567873
-AMR,Costa Rica,0.053362554,7.42,18.58715322
-AMR,Guatemala,0.230225883,18.96,6.150025978
-AMR,Ecuador ,0.0886,8.24,6.87470574
-AMR,Peru,0.140714746,28.38,8.45237167
-AMR,Colombia,0.071792812,14.66,7.913988015
-WPR,Malaysia,0.080039785,17.5,11.86725864
-WPR,Vietnam,0.02574682,27.64,4.717290287
-SEAR,Bangladesh,0.476363776,77.54,2.593416074
-WPR,Singapore,0.083519833,12.74,90.67406663
-SEAR,Thailand,0.139518,26.56,7.34513569
-AMR,Mexico,0.083729141,19.04,14.15794458
-AMR,Brazil,0.046652898,13.1,10.28031486
-SEAR,India,0.175551514,55.16,2.6966639
 EMR,Afghanistan,,,
 EUR,Albania,,,
 AFR,Algeria,,,
@@ -39,6 +19,7 @@ EUR,Azerbaijan,,,
 AMR,Azores,,,
 AMR,Bahamas,,,
 EMR,Bahrain,,,
+SEAR,Bangladesh,0.476363776,77.54,437415.331
 AMR,Barbados,,,
 AMR,Barbuda,,,
 EUR,Belarus,,,
@@ -51,10 +32,13 @@ AMR,Bolivia,,,
 AMR,"Bonaire, Saint Eustatius and Saba",,,
 EUR,Bosnia and Herzegovina,,,
 EUR,Botswana,,,
+AMR,Brazil,0.046652898,13.1,2173665.656
 AMR,British Virgin Islands,,,
 WPR,Brunei,,,
 EUR,Bulgaria,,,
+AFR,Burkina Faso,0.561326083,54.76,20324.61784
 AFR,Burundi,,,
+WPR,Cambodia,0.2141497,20.78,2084
 AFR,Cameroon,,,
 AMR,Canada,,,
 EUR,Canary Islands,,,
@@ -67,9 +51,11 @@ AMR,Chile,,,
 WPR,China,,,
 SEAR,Christmas Island,,,
 SEAR,Cocos Islands,,,
+AMR,Colombia,0.071792812,14.66,363493.8412
 EUR,Comoros,,,
 AFR,Congo,,,
 WPR,Cook Islands,,,
+AMR,Costa Rica,0.053362554,7.42,86497.94144
 EUR,Croatia,,,
 AMR,Cuba,,,
 AMR,Curacao,,,
@@ -80,6 +66,7 @@ EUR,Denmark,,,
 EMR,Djibouti,,,
 AMR,Dominica,,,
 AMR,Dominican Republic,,,
+AMR,Ecuador ,0.0886,8.24,118844.826
 EMR,Egypt,,,
 AMR,El Salvador,,,
 EUR,Equatorial Guinea,,,
@@ -106,6 +93,7 @@ AMR,Grenada,,,
 AMR,Grenadines,,,
 AMR,Guadeloupe,,,
 WPR,Guam,,,
+AMR,Guatemala,0.230225883,18.96,104450.2106
 AFR,Guernsey,,,
 AFR,Guinea,,,
 AMR,Guinea-Bissau,,,
@@ -115,6 +103,8 @@ EUR,Heard Island,,,
 AMR,Honduras,,,
 EUR,Hungary,,,
 EUR,Iceland,,,
+SEAR,India,0.175551514,55.16,3567551.675
+WPR,Indonesia,0.77144,40,4960.33
 EMR,Iran,,,
 EMR,Iraq,,,
 EUR,Ireland,,,
@@ -132,6 +122,7 @@ WPR,Kiribati,,,
 EUR,Kosovo,,,
 EMR,Kuwait,,,
 EUR,Kyrgyzstan,,,
+WPR,Laos,0.084725392,25.96,15843.15573
 EUR,Latvia,,,
 EMR,Lebanon,,,
 EUR,Lesotho,,,
@@ -143,6 +134,7 @@ EUR,Luxembourg,,,
 AFR,Madagascar,,,
 EUR,Madeira Islands,,,
 EUR,Malawi,,,
+WPR,Malaysia,0.080039785,17.5,399705.1693
 SEAR,Maldives,,,
 AFR,Mali,,,
 EUR,Malta,,,
@@ -151,6 +143,7 @@ AMR,Martinique,,,
 AFR,Mauritania,,,
 AFR,Mauritius,,,
 EUR,Mayotte,,,
+AMR,Mexico,0.083729141,19.04,1789114.435
 WPR,Micronesia,,,
 EUR,Moldova,,,
 EUR,Monaco,,,
@@ -162,6 +155,7 @@ AFR,Mozambique,,,
 SEAR,Myanmar,,,
 AFR,Namibia,,,
 WPR,Nauru,,,
+SEAR,Nepal,0.29461163,44.24,40908.07337
 EUR,Netherlands,,,
 AMR,Nevis,,,
 WPR,New Caledonia,,,
@@ -182,6 +176,8 @@ EMR,Palestine,,,
 AMR,Panama,,,
 WPR,Papua New Guinea,,,
 AMR,Paraguay,,,
+AMR,Peru,0.140714746,28.38,267603.2487
+WPR,Philippines,0.345031411,14.32,3805
 WPR,Pitcairn Islands,,,
 EUR,Poland,,,
 EUR,Portugal,,,
@@ -208,6 +204,7 @@ EUR,Serbia,,,
 AFR,Seychelles,,,
 SEAR,Siachen Glacier,,,
 AFR,Sierra Leone,,,
+WPR,Singapore,0.083519833,12.74,501427.5001
 AMR,Sint Eustatius,,,
 AMR,Sint Maarten,,,
 EUR,Slovakia,,,
@@ -220,6 +217,7 @@ WPR,South Korea,,,
 AMR,South Sandwich Islands,,,
 AFR,South Sudan,,,
 EUR,Spain,,,
+SEAR,Sri Lanka,0.093046098,19.54,84356.86374
 EMR,Sudan,,,
 AMR,Suriname,,,
 AFR,Swaziland,,,
@@ -229,6 +227,7 @@ EMR,Syria,,,
 WPR,Taiwan,,,
 EUR,Tajikistan,,,
 EUR,Tanzania,,,
+SEAR,Thailand,0.139518,26.56,514968.6992
 SEAR,Timor-Leste,,,
 AMR,Tobago,,,
 AFR,Togo,,,
@@ -250,6 +249,7 @@ AMR,USA,,,
 EUR,Uzbekistan,,,
 WPR,Vanuatu,,,
 AMR,Venezuela,,,
+WPR,Vietnam,0.02574682,27.64,429716.969
 AMR,Virgin Islands,,,
 WPR,Wallis and Futuna,,,
 AFR,Western Sahara,,,
